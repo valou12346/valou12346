@@ -1,9 +1,9 @@
 - 🔥 Hi, I’m @valou12346 and i'm actually *use italic here* or **this i don't know**
 ------------------------------------------------------------------------------------
-  i'am a student 📘in informatic ℹ️ and i use python 
-  i can spell the alphabet 🔤
-  i don't give my age 🆓
-  and i don't know what add more 😲🏙️
+  i'am a student 📘in informatic ℹ️ and i use python !
+  i can spell the alphabet 🔤!
+  i don't give my age 🆓!
+  and i don't know what add more 😲🏙️!
 ------------------------------------------------------------------------------------
 
 
