@@ -5,13 +5,13 @@
 
 
 ------------------------------------------------------------------------------------
-##Education
+## Education
   i'am a student 📘in informatic ℹ️ in Angers!  
   i can spell the alphabet 🔤!  
-##language🉑    
+## language🉑    
   i use python and kinda html  
   i speak french and english !  
-##End🏤  
+## End🏤  
   and i don't know what add more 😲🏙️!  
 ------------------------------------------------------------------------------------
 
