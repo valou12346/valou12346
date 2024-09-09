@@ -11,6 +11,8 @@
 ## language🉑    
   i use python and kinda html  
   i speak french and english !  
+## what i like ?  
+i like meal , history and more 🔥
 ## End🏤  
   and i don't know what add more 😲🏙️!  
 ------------------------------------------------------------------------------------
