@@ -9,10 +9,10 @@
   i'am a student 📘in **informatic** ℹ️ in **Angers**!  
   i can spell the **alphabet** 🔤!  
 ## language🉑    
-  i use python and kinda html !  
-  i speak french and english !  
+  i use **python** and kinda **html** !  
+  i speak **french** and **english** !  
 ## what i like ?  
-i like meal , history and more 🔥!  
+i like **meal** , **history** and **more** 🔥!  
 ## what are my objectives ?
 be good in **informatic** and be good in **math**
 ## End🏤  
