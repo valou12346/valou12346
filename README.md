@@ -5,9 +5,13 @@
 
 
 ------------------------------------------------------------------------------------
-  i'am a student 📘in informatic ℹ️ and i use python !  
+##Education
+  i'am a student 📘in informatic ℹ️ in Angers!  
   i can spell the alphabet 🔤!  
-  i don't give my age 🆓!  
+##language🉑    
+  i use python and kinda html  
+  i speak french and english !  
+##End🏤  
   and i don't know what add more 😲🏙️!  
 ------------------------------------------------------------------------------------
 
